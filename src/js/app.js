@@ -26,7 +26,11 @@
     function o(t) {
         t.addEventListener("mouseover", n), t.addEventListener("mouseout", s)
     }
+    
+    
+
 	
-	$(document).ready(function() {
-        
-        //page curser
+	
+	
+	
+  })(jQuery); 
