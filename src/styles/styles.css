@@ -259,18 +259,20 @@ body{
 	opacity: 0.2;
 }
 .case-study-images li:nth-child(1) .img-hero-background{
-    background-image: url(../img/2.jpg);
+    background-image: url(../img/11.jpg);
     background-size: cover;
 }
 .case-study-images li:nth-child(2) .img-hero-background{
-    background-image: url(../img/3.jpg);
+    background-image: url(../img/22.jpg);
     background-size: cover;
 }
 .case-study-images li:nth-child(3) .img-hero-background{
-	background-image: url(../img/4.jpg);
+    background-image: url(../img/44.jpg);
+    background-size: cover;
 }
 .case-study-images li:nth-child(4) .img-hero-background{
-	background-image: url("http://www.ivang-design.com/svg-load/4.jpg");
+    background-image: url(../img/33.jpg);
+    background-size: cover;
 }
 
 /* #Media
