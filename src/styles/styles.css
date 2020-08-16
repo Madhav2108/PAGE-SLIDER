@@ -309,7 +309,7 @@ body{
     border-radius: 3px;
     background-position: center center;
     background-size: cover;
-    background-image: url('https://ivang-design.com/ig-logo.jpg');
+    background-image: url(../img/mnk.jpg);
     box-shadow: 0 0 0 2px rgba(255,255,255,.3);
     transition: opacity .2s, border-radius .2s, box-shadow .2s;
     transition-timing-function: ease-out;
