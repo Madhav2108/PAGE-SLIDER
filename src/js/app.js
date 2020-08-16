@@ -26,9 +26,8 @@
     function o(t) {
         t.addEventListener("mouseover", n), t.addEventListener("mouseout", s)
     }
-    
-    
-    $(document).ready(function() {
+	
+	$(document).ready(function() {
 		
 		/* Hero Case study images */			
 		
@@ -59,7 +58,7 @@
 		$('.case-study-name:nth-child(1)').trigger('mouseenter')
 					
 	});
-	
+
 	
 	
 	
