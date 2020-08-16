@@ -253,3 +253,35 @@
 	background-color: #050505;
 	opacity: 0.2;
 }
+
+.case-study-images li:nth-child(1) .img-hero-background{
+	background-image: url("http://www.ivang-design.com/svg-load/1.jpg");
+}
+.case-study-images li:nth-child(2) .img-hero-background{
+	background-image: url("http://www.ivang-design.com/svg-load/2.jpg");
+}
+.case-study-images li:nth-child(3) .img-hero-background{
+	background-image: url("http://www.ivang-design.com/svg-load/3.jpg");
+}
+.case-study-images li:nth-child(4) .img-hero-background{
+	background-image: url("http://www.ivang-design.com/svg-load/4.jpg");
+}
+
+/* #Media
+================================================== */
+
+@media (max-width: 991px) { 
+	.case-study-images li .hero-number-back{
+		font-size: 26vw;
+	} 
+}
+
+@media (max-width: 767px) {	
+	.case-study-wrapper .case-study-name a {
+		font-size: 20px;
+		letter-spacing: 1px;
+	}
+	.case-study-images li .hero-number-back{
+		font-size: 32vw;
+	} 
+}
